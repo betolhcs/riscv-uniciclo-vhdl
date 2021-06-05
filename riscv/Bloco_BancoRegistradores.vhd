@@ -28,12 +28,6 @@ begin
     if rising_edge(clock) then
       if writeEnable = '1' and selectWrite /= "00000" then -- Não pode escrever no zero
         banco_reg(to_integer(unsigned(selectWrite))) <= writeData;
-        -- if select1 = selectWrite then  -- Bypass 
-        --   register1 <= writeData;
-        -- end if;
-        -- if select2 = selectWrite then  -- Bypass
-        --   register2 <= writeData; 
-        -- end if;
       end if;
     end if;
   end process;
