@@ -6,7 +6,7 @@ Implementação em VHDL de um processador RISC-V Uniciclo, capaz de realizar ope
 
 ## Instruções de uso
 
-Para utilização do processador risc-v uniciclo em vhdl, é necessário o uso 
+Para utilização do processador risc-v uniciclo em vhdl, é necessário um arquivo contento as instruções e caso seja necessário outro contendo os valores da memória de dados, ambos os arquivos no formato .txt tendo seu conteudo formatado em hexadecimal, conforme os exemplos "meminstruction.txt" e "memdata.txt" disponíveis.
 
 ## Autor
 
