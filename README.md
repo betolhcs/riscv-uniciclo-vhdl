@@ -18,4 +18,4 @@ O processador foi feito e testado no software [ModelSim - INTEL FPGA STARTER EDI
 
 ## Licença
 
-Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
+Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
