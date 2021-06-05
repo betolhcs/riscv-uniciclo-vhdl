@@ -111,7 +111,7 @@ begin
         when "110" =>
           sig_ulaCode <= "1111"; -- JALR 
         when others =>
-          sig_ulaCode <= "0000"; -- Erro ou não programado
+          sig_ulaCode <= "0000"; -- Erro ou nÃ£o programado
     end case;
   end process;
 end arc_ctrlula;
