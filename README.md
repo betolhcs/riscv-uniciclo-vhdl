@@ -4,7 +4,7 @@ Implementação em VHDL de um processador RISC-V Uniciclo, capaz de realizar ope
 
 
 
-### Instruções de uso
+## Instruções de uso
 
 Para utilização do processador risc-v uniciclo em vhdl, é necessário o uso 
 
